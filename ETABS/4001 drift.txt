@@ -1,0 +1,328 @@
+ 
+ ETABS v9.7.4  File:4001  Units:Ton-m  February 7, 2016 19:42  PAGE 1
+ 
+ L O A D I N G  C O M B I N A T I O N S 
+ 
+             COMBO                   CASE               SCALE
+ COMBO       TYPE        CASE        TYPE              FACTOR
+ 
+ DR1         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EX          Static            1.0000
+ DR2         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EX          Static           -1.0000
+ DR3         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EY          Static           -1.0000
+ DR4         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EY          Static            1.0000
+ DR5         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EXP         Static           -1.0000
+ DR6         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EXP         Static            1.0000
+ DR7         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EXN         Static            1.0000
+ DR8         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EXN         Static           -1.0000
+ DR9         ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EYP         Static           -1.0000
+ DR10        ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EYP         Static            1.0000
+ DR11        ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EYN         Static            1.0000
+ DR12        ADD         D           Static            1.0000
+                         DC          Static            1.0000
+                         DW          Static            1.0000
+                         DWC         Static            1.0000
+                         L1          Static            1.0000
+                         L1C         Static            1.0000
+                         L2          Static            1.0000
+                         L2C         Static            1.0000
+                         LR          Static            1.0000
+                         LRC         Static            1.0000
+                         EYN         Static           -1.0000
+ 
+ ETABS v9.7.4  File:4001  Units:Ton-m  February 7, 2016 19:42  PAGE 2
+ 
+ P O I N T   D I S P L A C E M E N T   E N V E L O P E S
+ 
+ STORY       POINT       ITEM                  UX          UY          UZ          RX          RY          RZ
+ 
+ STORY4      1           Min Value        -0.0499      0.0000     -0.0010     0.00000    -0.00143     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0499      0.0000     -0.0005     0.00000     0.00305     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY4      2           Min Value        -0.0499      0.0000     -0.0015     0.00000    -0.00183     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0499      0.0000     -0.0015     0.00000     0.00174     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY4      3           Min Value        -0.0499      0.0000     -0.0015     0.00000    -0.00174     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0499      0.0000     -0.0015     0.00000     0.00183     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY4      4           Min Value        -0.0499      0.0000     -0.0010     0.00000    -0.00305     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0499      0.0000     -0.0005     0.00000     0.00143     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY4      537         Min Value        -0.0499      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case             DR8        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0499      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case             DR7        DR12        DR12        DR12        DR12        DR12
+ 
+ STORY3      1           Min Value        -0.0402      0.0000     -0.0009     0.00000    -0.00338     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0402      0.0000     -0.0005     0.00000     0.00406     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY3      2           Min Value        -0.0402      0.0000     -0.0014     0.00000    -0.00332     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0402      0.0000     -0.0013     0.00000     0.00334     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY3      3           Min Value        -0.0402      0.0000     -0.0014     0.00000    -0.00334     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0402      0.0000     -0.0013     0.00000     0.00332     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY3      4           Min Value        -0.0402      0.0000     -0.0009     0.00000    -0.00406     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0402      0.0000     -0.0005     0.00000     0.00338     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY3      538         Min Value        -0.0402      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case             DR8        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0402      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case             DR7        DR12        DR12        DR12        DR12        DR12
+ 
+ STORY2      1           Min Value        -0.0251      0.0000     -0.0007     0.00000    -0.00447     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0251      0.0000     -0.0004     0.00000     0.00531     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY2      2           Min Value        -0.0251      0.0000     -0.0011     0.00000    -0.00437     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0251      0.0000     -0.0010     0.00000     0.00436     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY2      3           Min Value        -0.0251      0.0000     -0.0011     0.00000    -0.00436     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0251      0.0000     -0.0010     0.00000     0.00437     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY2      4           Min Value        -0.0251      0.0000     -0.0007     0.00000    -0.00531     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0251      0.0000     -0.0004     0.00000     0.00447     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY2      539         Min Value        -0.0251      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case             DR8        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0251      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case             DR7        DR12        DR12        DR12        DR12        DR12
+ 
+ STORY1      1           Min Value        -0.0093      0.0000     -0.0004     0.00000    -0.00336     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0093      0.0000     -0.0002     0.00000     0.00433     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY1      2           Min Value        -0.0093      0.0000     -0.0006     0.00000    -0.00307     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0093      0.0000     -0.0006     0.00000     0.00301     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY1      3           Min Value        -0.0093      0.0000     -0.0006     0.00000    -0.00301     0.00000
+                         Min Case             DR8        DR12         DR8        DR12         DR8        DR12
+                         Max Value         0.0093      0.0000     -0.0006     0.00000     0.00307     0.00000
+                         Max Case             DR7        DR12         DR7        DR12         DR7        DR12
+ 
+ STORY1      4           Min Value        -0.0093      0.0000     -0.0004     0.00000    -0.00433     0.00000
+                         Min Case             DR8        DR12         DR7        DR12         DR8        DR12
+                         Max Value         0.0093      0.0000     -0.0002     0.00000     0.00336     0.00000
+                         Max Case             DR7        DR12         DR8        DR12         DR7        DR12
+ 
+ STORY1      540         Min Value        -0.0093      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case             DR8        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0093      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case             DR7        DR12        DR12        DR12        DR12        DR12
+ 
+ BASE        4           Min Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case            DR12        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case            DR12        DR12        DR12        DR12        DR12        DR12
+ 
+ BASE        3           Min Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case            DR12        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case            DR12        DR12        DR12        DR12        DR12        DR12
+ 
+ BASE        2           Min Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case            DR12        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case            DR12        DR12        DR12        DR12        DR12        DR12
+ 
+ BASE        1           Min Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Min Case            DR12        DR12        DR12        DR12        DR12        DR12
+                         Max Value         0.0000      0.0000      0.0000     0.00000     0.00000     0.00000
+                         Max Case            DR12        DR12        DR12        DR12        DR12        DR12
+ 
+ 
+ ETABS v9.7.4  File:4001  Units:Ton-m  February 7, 2016 19:42  PAGE 3
+ 
+ D I S P L A C E M E N T   E N V E L O P E S   A T   D I A P H R A G M   C E N T E R   O F   M A S S
+ 
+ STORY       DIAPHRAGM   POINT                  X           Y ITEM                  UX          UY          RZ
+ 
+ STORY4      D1          537                9.000       0.000 Min Value        -0.0499      0.0000     0.00000
+                                                              Min Case             DR8        DR12        DR12
+                                                              Max Value         0.0499      0.0000     0.00000
+                                                              Max Case             DR7        DR12        DR12
+ 
+ STORY3      D1          538                9.000       0.000 Min Value        -0.0402      0.0000     0.00000
+                                                              Min Case             DR8        DR12        DR12
+                                                              Max Value         0.0402      0.0000     0.00000
+                                                              Max Case             DR7        DR12        DR12
+ 
+ STORY2      D1          539                9.000       0.000 Min Value        -0.0251      0.0000     0.00000
+                                                              Min Case             DR8        DR12        DR12
+                                                              Max Value         0.0251      0.0000     0.00000
+                                                              Max Case             DR7        DR12        DR12
+ 
+ STORY1      D1          540                9.000       0.000 Min Value        -0.0093      0.0000     0.00000
+                                                              Min Case             DR8        DR12        DR12
+                                                              Max Value         0.0093      0.0000     0.00000
+                                                              Max Case             DR7        DR12        DR12
+ 
+ 
+ ETABS v9.7.4  File:4001  Units:Ton-m  February 7, 2016 19:42  PAGE 4
+ 
+ S T O R Y   D R I F T   E N V E L O P E S
+ 
+ STORY       DIRECTION   LOAD            POINT                  X           Y           Z   MAX DRIFT
+ 
+ STORY4      X           DR7             4                 18.000       0.000      12.000    0.003254
+ 
+ STORY3      X           DR7             4                 18.000       0.000       9.000    0.005011
+ 
+ STORY2      X           DR7             4                 18.000       0.000       6.000    0.005274
+ 
+ STORY1      X           DR7             4                 18.000       0.000       3.000    0.003106
+ 
+ 
+ ETABS v9.7.4  File:4001  Units:Ton-m  February 7, 2016 19:42  PAGE 5
+ 
+ D I A P H R A G M   D R I F T   E N V E L O P E S
+ 
+ STORY       DIAPHRAGM   DIRECTION   LOAD            POINT                  X           Y           Z   MAX DRIFT
+ 
+ STORY4      D1          X           DR7             4                 18.000       0.000      12.000    0.003254
+ STORY4      D1          Y           DR7             4                 18.000       0.000      12.000    0.000000
+ 
+ STORY3      D1          X           DR7             4                 18.000       0.000       9.000    0.005011
+ STORY3      D1          Y           DR7             4                 18.000       0.000       9.000    0.000000
+ 
+ STORY2      D1          X           DR7             4                 18.000       0.000       6.000    0.005274
+ STORY2      D1          Y           DR7             4                 18.000       0.000       6.000    0.000000
+ 
+ STORY1      D1          X           DR7             4                 18.000       0.000       3.000    0.003106
+ STORY1      D1          Y           DR7             4                 18.000       0.000       3.000    0.000000
+ 
