@@ -3,11 +3,12 @@ Performance Based Design Objectives Quantification project - Pushover analysis O
 
 https://www.researchgate.net/publication/326279470_An_Investigation_on_the_Correlation_of_Inter-story_Drift_and_Performance_Objectives_in_Conventional_RC_Frames
 
-![80-183-1-SM_Page1](https://github.com/user-attachments/assets/e43a2435-4299-4372-afb6-f4ab18bc05f9)
-![80-183-1-SM_Page2](https://github.com/user-attachments/assets/af819cea-8679-47c1-ba47-2dae6873600b)
-![80-183-1-SM_Page3](https://github.com/user-attachments/assets/7bf4b505-8bf0-443f-8e72-c139614d72da)
-![80-183-1-SM_Page4](https://github.com/user-attachments/assets/06a13554-e73a-44a7-aa83-7e6c67af3e57)
-![80-183-1-SM_Page5](https://github.com/user-attachments/assets/0789d2e2-9156-4f30-b2e0-d8381f5aa423)
-![80-183-1-SM_Page6](https://github.com/user-attachments/assets/e0672382-d1ba-48a0-bca0-61b17d14fca9)
-![80-183-1-SM_Page7](https://github.com/user-attachments/assets/d8825b4a-e6d7-4492-8132-b698a5c61aa7)
-![80-183-1-SM_Page8](https://github.com/user-attachments/assets/f2d42a59-7533-4d54-b1ed-b00695b66073)
+
+![0001](https://github.com/user-attachments/assets/37ac9ee8-2d9d-46e6-942a-0aa1683ffbfe)
+![0002](https://github.com/user-attachments/assets/c598205f-fb8e-4f82-a266-155696fbcf7e)
+![0003](https://github.com/user-attachments/assets/ca64b71d-f022-4045-be66-4760b6d263cb)
+![0004](https://github.com/user-attachments/assets/915690e5-3afd-4b47-8da1-209daf334d4f)
+![0005](https://github.com/user-attachments/assets/2a07f952-9656-4b88-93f3-5231d2cc48ba)
+![0006](https://github.com/user-attachments/assets/bdca9dc0-2e68-4f40-9d17-a82da6aa3911)
+![0007](https://github.com/user-attachments/assets/b3e3d304-fedf-42bd-ad29-f33dfa337021)
+![0008](https://github.com/user-attachments/assets/7f77b7f2-96bb-45c5-a373-950f721f9600)
