@@ -3,14 +3,7 @@ Performance Based Design Objectives Quantification project - Pushover analysis O
 
 https://www.researchgate.net/publication/326279470_An_Investigation_on_the_Correlation_of_Inter-story_Drift_and_Performance_Objectives_in_Conventional_RC_Frames
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/d6919ad7-d0a5-4539-aa76-aa2b54f31969">
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/d623a8ef-d557-4db9-834d-f24a378e7635">
-<img width="307" alt="image" src="https://github.com/user-attachments/assets/93d371c6-2583-424a-89fa-162dd3933514">
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/5c8b3250-42e9-440c-8b43-e9853b26ec81">
-<img width="172" alt="image" src="https://github.com/user-attachments/assets/32c6552f-0ab2-4723-a620-026371948bfd">
-<img width="328" alt="image" src="https://github.com/user-attachments/assets/3c861537-538d-4f73-880b-4288158156cc">
-<img width="324" alt="image" src="https://github.com/user-attachments/assets/fb608e2e-b57a-4c69-adc7-d0274f435761">
-<img width="337" alt="image" src="https://github.com/user-attachments/assets/60e82f59-5b21-490d-aa41-edb22234c563">
+https://www.researchgate.net/publication/326279470_An_Investigation_on_the_Correlation_of_Inter-story_Drift_and_Performance_Objectives_in_Conventional_RC_Frames/fulltext/5b4423a3458515f71cb89d1b/An-Investigation-on-the-Correlation-of-Inter-story-Drift-and-Performance-Objectives-in-Conventional-RC-Frames.pdf?origin=publicationDetail&_sg%5B0%5D=Uex_4By4yXdgK7DNeDpuXnSYMaRKW7F9ojDEFjn_kvd6srwN687oDKXH_KPpKgM1MGutLaWKKShti2xs5kve_w.uyJZUvYYqL1Xu4GNxHwvvXPrw7OLqB58dJrr0tDP52e4evxxqe4uwMkTJO-YU611UJv9FUH9PDN5ozoloy4WcA&_sg%5B1%5D=QUP3JT2OBq2912fj5EivSBGRUHt3w0FDExfj04wEF9Igxu9l2G_AliLvNrrf73vPtiov4pcr2sMC1sSdaHfKlW-037aI2yMHdV2_PVzvgja_.uyJZUvYYqL1Xu4GNxHwvvXPrw7OLqB58dJrr0tDP52e4evxxqe4uwMkTJO-YU611UJv9FUH9PDN5ozoloy4WcA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwb3NpdGlvbiI6InBhZ2VIZWFkZXIifX0
 
 
 
